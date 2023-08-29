@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Hi there 👋, My name is Alison
+- 📫 How to reach me: alison@aquinas.pro
+- 😄 Pronouns: she/her/hers
 <!--
 **alisonaquinas/alisonaquinas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
