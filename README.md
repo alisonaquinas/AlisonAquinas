@@ -5,3 +5,4 @@
 - 🌎 My Website: <https://www.alisonquinas.com/>
 - 🖇 My LinkedIn Profile <https://www.linkedin.com/in/alisonaquinas/>
 
+<meta name="google-site-verification" content="InUPLs_XcPHvHBT5Fx3BFEzxuO9sIpAOPzzq4yC3_Dw" />
