@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Alison
 - 😄 Pronouns: she/her/hers
-- 🔭 I’m currently looking for a job!
+- 🔭 I’m currently a Sr. Manager at [Orthomerica, Products Inc.](https://www.orthomerica.com/)
 - 📫 How to reach me: alisonaquinas@gmail.com
 - 🌎 My Website: <https://www.alisonquinas.com/>
 - 🖇 My LinkedIn Profile <https://www.linkedin.com/in/alisonaquinas/>
